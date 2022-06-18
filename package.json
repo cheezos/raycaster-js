@@ -1,0 +1,14 @@
+{
+	"name": "electron-app",
+	"version": "1.0.0",
+	"main": "src/main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"devDependencies": {
+		"electron": "^19.0.4"
+	},
+	"dependencies": {
+		"pixi.js": "^6.4.2"
+	}
+}
