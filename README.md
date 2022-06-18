@@ -14,4 +14,4 @@ Run these commands in order:
 
 ### Preview
 
-![Preview](https://github.com/cheezos/raycaster-js/blob/main/preview.jpg)
+![Preview](https://github.com/cheezos/raycaster-js/blob/master/preview.jpg)
