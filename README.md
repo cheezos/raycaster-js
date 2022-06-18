@@ -1,6 +1,6 @@
 # Javascript Raycaster
 
-A simple raycaster using Javascript, PixiJS and Electron.
+Doom-style raycaster in Javascript using PixiJS and Electron.
 
 ### Setup
 
