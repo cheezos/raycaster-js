@@ -1,6 +1,6 @@
 ## Javascript Raycaster
 
-Doom-style raycaster in Javascript using PixiJS and Electron.
+Doom-style raycaster engine in Javascript.
 
 ## Setup & Run
 
@@ -16,3 +16,7 @@ Doom-style raycaster in Javascript using PixiJS and Electron.
 -----------
 
 ![Preview](https://github.com/cheezos/raycaster-js/blob/master/preview.jpg)
+
+---------
+
+Created with Javascript, Pixi JS and Electron.
