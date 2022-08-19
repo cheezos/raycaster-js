@@ -1,17 +1,18 @@
-# Javascript Raycaster
+## Javascript Raycaster
 
 Doom-style raycaster in Javascript using PixiJS and Electron.
 
-### Setup
+## Setup & Run
 
-Clone the repository and open it in VSCode/Terminal.
+1. Clone and open the project in a terminal.
+2. Install the dependencies `npm install`.
+3. Run `npm run start`.
 
-Run these commands in order:
+## Controls
 
-1. `npm i -D electron`
-2. `npm i pixi.js`
-3. `npm run start`
+- Move with `W` `A` `S` `D`.
+- Mouse to look around.
 
-### Preview
+-----------
 
 ![Preview](https://github.com/cheezos/raycaster-js/blob/master/preview.jpg)
