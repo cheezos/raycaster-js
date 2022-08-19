@@ -1,3 +1,7 @@
+## Notice
+
+This is for educational purposes only and will no longer be updated or maintained.
+
 ## Javascript Raycaster
 
 Doom-style raycaster engine in Javascript.
